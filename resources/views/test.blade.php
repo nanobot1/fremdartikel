@@ -5,7 +5,7 @@
 </head>
  <h1>Test</h1>
     <div id="app">
-
+        <example></example>
         <test></test>
     </div>
  <script src="js/app.js" charset=""></script>
